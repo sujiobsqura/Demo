@@ -16,7 +16,7 @@ temp=temp/10;
 if(n==num)
 System.out.println("Armstrong");
 else
-	System.out.println("Not Armstrong");
+	System.out.println("Not Armstrong    ");
 }
 }
 }
